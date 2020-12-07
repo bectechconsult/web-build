@@ -1,0 +1,17 @@
+Q1. As a DevOps engineer, you are told t oprepare complete solution to run a piece of code that required multi-threated processing. The code has been running on an old
+custom-built server based around a 4 core intel xeon processor. Which of these best describe the AWS compute service that could be used?
+a = EC2, ECS and Lambda
+b = EC2, EBS and VPC
+C = ECS, S3 and Lambda
+
+Q2. What command will list services that are enabled at a particular runlevel in linux?
+a = ls -l services
+b = systemctl list-dependencies graphical.target
+c = systemctl list services.d
+
+Q3. How would you count every occurence of the term "Potato" in all the files appearing under a directory and its subdirectories, recursively?
+
+Q4. What would be a simple way(command) to continuously monitor the log file for a service that is running?
+
+To do these questions, create a file on a linux system, write the question and answer below each question, safe your file and push it back onto this github repo from your
+local repo in your linux system. Note: As a Linux/DevOps Engineer there are other things you should know are required to do to successfully accomplish the task.
